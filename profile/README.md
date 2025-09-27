@@ -1,27 +1,31 @@
 ![https://raw.githubusercontent.com/Trainberry/.github/refs/heads/main/profile/banner.png](https://raw.githubusercontent.com/Trainberry/.github/refs/heads/main/profile/banner.png)
 
-# Trainberry - Bienvenue ! 👋
+# Trainberry - Welcome! 👋
 
-Trainberry est un projet **open-source** et **open-hardware** visant à permettre de contrôler numériquement des trains 
-électriques (format HO) grâce à des technologies ouvertes, extensibles et accessibles à tous et toutes.
+Trainberry is an **open-source** and **open-hardware** project designed to enable the digital control of electric trains
+(HO scale) through open, extensible, and accessible technologies for everyone.
 
-L'ensemble de ce projet est distribué sous [Licence AGPLv3](https://www.gnu.org/licenses/agpl-3.0.fr.html); et est 
-originellement porté par [Florian Forestier](https://github.com/florian-forestier/). Toutes les propositions et contributions 
-sont les bienvenues !
+The entire project is distributed under the [AGPLv3 License](https://www.gnu.org/licenses/agpl-3.0.html)
+and was originally initiated by [Florian Forestier](https://github.com/florian-forestier/).
+All suggestions and contributions are welcome!
 
-## Les origines du projet
+## Project Origins
 
-L'idée de ce projet remonte à 2012, lorsque mon grand-père et moi avons commencé à étendre notre petit circuit électrique. A l'époque, 
-nous étions passé d'un circuit de la table d'une table basse à une table de ping-pong entière (avant de rajouter une gare de triage supplémentaire). 
-Nous étions alors confronté au problèmes inhérents à la gestion analogique des trains : la direction et la vitesse étaient définies pour l'ensemble des trains ; 
-ce qui provoquait des collisions.
+The idea for this project dates back to 2012, when my grandfather and I started expanding our small electric train layout.
+At the time, we went from a coffee table–sized layout to a full ping-pong table (before adding an extra switching yard).
+We were then faced with the problems inherent to analog train control: direction and speed were defined for all trains
+at once, which inevitably led to collisions.
 
-Faute de moyens et de connaissances, nous nous sommes contenté de l'approche analogique jusqu'en 2024 ; où j'ai vu 
-[le talk de Thierry Chantier sur TinyGo](https://www.youtube.com/watch?v=74DDxF6Jqm0). Il n'en fallait pas plus pour relancer l'idée !
+Due to lack of resources and knowledge, we stuck with the analog approach until 2024,
+when I discovered [Thierry Chantier’s talk about TinyGo](https://www.youtube.com/watch?v=74DDxF6Jqm0).
+That was all it took to revive the idea!
 
 ## Contact
 
-Pour toute information, n'hésitez pas à me contacter :
-* Par e-mail : [hello@florian.forestier.re](mailto:hello@florian.forestier.re),
-* Sur BlueSky : [@florian.forestier.re](https://bsky.app/profile/florian.forestier.re)
-* Sur LinkedIn : [florian-forestier](https://www.linkedin.com/in/florian-forestier/)
+For any information, feel free to reach out:
+
+* By email: [hello@florian.forestier.re](mailto:hello@florian.forestier.re)
+* On BlueSky: [@florian.forestier.re](https://bsky.app/profile/florian.forestier.re)
+* On LinkedIn: [florian-forestier](https://www.linkedin.com/in/florian-forestier/)
+
+*Note: A copy of the Github repos are available at [https://git.forestier.re/current/train](https://git.forestier.re/current/train).*
