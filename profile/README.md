@@ -1,5 +1,7 @@
 ![https://raw.githubusercontent.com/Trainberry/.github/refs/heads/main/profile/banner.png](https://raw.githubusercontent.com/Trainberry/.github/refs/heads/main/profile/banner.png)
 
+# We migrated to [Codeberg](https://codeberg.org/Trainberry)! Projects on GitHub will not be updated anymore.
+
 # Trainberry - Welcome! 👋
 
 Trainberry is an **open-source** and **open-hardware** project designed to enable the digital control of electric trains
